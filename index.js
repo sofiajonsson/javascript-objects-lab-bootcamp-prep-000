@@ -2,7 +2,7 @@ var recipes = { };
 
 function updateObjectWithKeyAndValue(object, key, value){
  object [key]=value;
-  return recipes.concat[object];
+  return recipes.concat[];
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
